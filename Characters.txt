@@ -1,1 +1,1 @@
-Soldier,King,Monkey,rhino,bird
+Soldier,King,Monkey,rhino,bird,spider
